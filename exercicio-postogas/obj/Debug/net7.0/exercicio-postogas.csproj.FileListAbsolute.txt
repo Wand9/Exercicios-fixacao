@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\bin\Debug\net7.0\exercicio-postogas.exe
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\bin\Debug\net7.0\exercicio-postogas.deps.json
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\bin\Debug\net7.0\exercicio-postogas.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\bin\Debug\net7.0\exercicio-postogas.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\bin\Debug\net7.0\exercicio-postogas.pdb
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\refint\exercicio-postogas.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.pdb
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\exercicio-postogas.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-postogas\obj\Debug\net7.0\ref\exercicio-postogas.dll

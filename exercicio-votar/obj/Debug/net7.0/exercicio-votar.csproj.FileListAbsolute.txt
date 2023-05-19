@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\bin\Debug\net7.0\exercicio-votar.exe
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\bin\Debug\net7.0\exercicio-votar.deps.json
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\bin\Debug\net7.0\exercicio-votar.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\bin\Debug\net7.0\exercicio-votar.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\bin\Debug\net7.0\exercicio-votar.pdb
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\refint\exercicio-votar.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.pdb
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\exercicio-votar.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-votar\obj\Debug\net7.0\ref\exercicio-votar.dll

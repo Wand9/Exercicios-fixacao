@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Calculo de orçamento\bin\Debug\net7.0\Calculo de orçamento.exe
+C:\Users\48599214888\Desktop\Calculo de orçamento\bin\Debug\net7.0\Calculo de orçamento.deps.json
+C:\Users\48599214888\Desktop\Calculo de orçamento\bin\Debug\net7.0\Calculo de orçamento.runtimeconfig.json
+C:\Users\48599214888\Desktop\Calculo de orçamento\bin\Debug\net7.0\Calculo de orçamento.dll
+C:\Users\48599214888\Desktop\Calculo de orçamento\bin\Debug\net7.0\Calculo de orçamento.pdb
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.dll
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\refint\Calculo de orçamento.dll
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.pdb
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\Calculo de orçamento.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Calculo de orçamento\obj\Debug\net7.0\ref\Calculo de orçamento.dll

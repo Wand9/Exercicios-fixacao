@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\bin\Debug\net7.0\exercicio-descricao-produtos.exe
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\bin\Debug\net7.0\exercicio-descricao-produtos.deps.json
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\bin\Debug\net7.0\exercicio-descricao-produtos.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\bin\Debug\net7.0\exercicio-descricao-produtos.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\bin\Debug\net7.0\exercicio-descricao-produtos.pdb
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\refint\exercicio-descricao-produtos.dll
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.pdb
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\exercicio-descricao-produtos.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios-12-04\exercicio-descricao-produtos\obj\Debug\net7.0\ref\exercicio-descricao-produtos.dll

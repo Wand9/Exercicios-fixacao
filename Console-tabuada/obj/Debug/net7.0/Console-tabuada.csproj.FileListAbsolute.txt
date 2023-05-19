@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\bin\Debug\net7.0\Console-tabuada.exe
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\bin\Debug\net7.0\Console-tabuada.deps.json
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\bin\Debug\net7.0\Console-tabuada.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\bin\Debug\net7.0\Console-tabuada.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\bin\Debug\net7.0\Console-tabuada.pdb
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\refint\Console-tabuada.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.pdb
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\Console-tabuada.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-tabuada\obj\Debug\net7.0\ref\Console-tabuada.dll

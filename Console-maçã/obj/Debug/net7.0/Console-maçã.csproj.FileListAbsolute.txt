@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\bin\Debug\net7.0\Console-maçã.exe
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\bin\Debug\net7.0\Console-maçã.deps.json
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\bin\Debug\net7.0\Console-maçã.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\bin\Debug\net7.0\Console-maçã.dll
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\bin\Debug\net7.0\Console-maçã.pdb
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.dll
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\refint\Console-maçã.dll
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.pdb
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\Console-maçã.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios\Console-maçã\obj\Debug\net7.0\ref\Console-maçã.dll

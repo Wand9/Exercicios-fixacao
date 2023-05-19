@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Backend\console-triangulo\bin\Debug\net7.0\console-triangulo.exe
+C:\Users\48599214888\Desktop\Backend\console-triangulo\bin\Debug\net7.0\console-triangulo.deps.json
+C:\Users\48599214888\Desktop\Backend\console-triangulo\bin\Debug\net7.0\console-triangulo.runtimeconfig.json
+C:\Users\48599214888\Desktop\Backend\console-triangulo\bin\Debug\net7.0\console-triangulo.dll
+C:\Users\48599214888\Desktop\Backend\console-triangulo\bin\Debug\net7.0\console-triangulo.pdb
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.dll
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\refint\console-triangulo.dll
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.pdb
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\console-triangulo.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Backend\console-triangulo\obj\Debug\net7.0\ref\console-triangulo.dll
